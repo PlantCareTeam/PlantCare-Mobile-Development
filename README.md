@@ -26,7 +26,7 @@ PlantCare is an intuitive mobile application that utilizes visual recognition te
 ## Mobile Tech Stack 😎
 
 | Library                    | Link Documentation                                                                           |
-| -------------------------- | -------------------------------------------------------------------------------------------- |                              |
+| -------------------------- | -------------------------------------------------------------------------------------------- |     
 | Room                       | [Documentation](https://developer.android.com/training/data-storage/room)                    |
 | Datastore                  | [Documentation](https://developer.android.com/training/data-storage/room)                    |
 | Retrofit                   | [Documentation](https://square.github.io/retrofit/)                                          |
