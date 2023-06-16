@@ -9,19 +9,16 @@ PlantCare is an intuitive mobile application that utilizes visual recognition te
 3. Don't forget to have proper internet connection so you don't have problem while making garbage order or taking garbage order.
 
 ## Preview 🖼️
-
-![login](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/e98216b2-7ecf-419d-be10-5ed9dbb6f887) ![regis](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/00af930f-8842-4352-a591-fc8ae1667005)
 ### Login & Register
-
-![dashboard](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/b296f59f-609e-4448-aa04-436fbfe670df)
-![profile screen]
+![login](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/e98216b2-7ecf-419d-be10-5ed9dbb6f887) ![regis](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/00af930f-8842-4352-a591-fc8ae1667005)
 
 ### Dashboard and Profil Screen
-
-![detail](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/a60b2f11-edbe-4e9f-9aba-c04137e9b67f)
-![diagnosis](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/ef11f383-5f5f-4d2b-a613-ad124015f2a2)
+![dashboard](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/b296f59f-609e-4448-aa04-436fbfe670df)
+![profile](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/1987fb0e-8a44-442a-a01b-e4ee0145723b)
 
 ### Detail & Scan
+![detail](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/a60b2f11-edbe-4e9f-9aba-c04137e9b67f)
+![diagnosis](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/ef11f383-5f5f-4d2b-a613-ad124015f2a2)
 
 ## User Flow 📱
 ![flow_screen](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/003814a1-f981-4dfd-9976-d11ceee1e11c)
