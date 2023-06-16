@@ -18,12 +18,10 @@ PlantCare is an intuitive mobile application that utilizes visual recognition te
 
 ### Dashboard and Profil Screen
 
-![change address screen] ![success create order]
+![detail](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/a60b2f11-edbe-4e9f-9aba-c04137e9b67f)
+![diagnosis](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/ef11f383-5f5f-4d2b-a613-ad124015f2a2)
 
 ### Detail & Scan
-
-![order history screen] ![order detail screen]
-
 
 ## User Flow 📱
 ![flow_screen](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/003814a1-f981-4dfd-9976-d11ceee1e11c)
