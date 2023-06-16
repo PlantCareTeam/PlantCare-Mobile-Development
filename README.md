@@ -1,4 +1,4 @@
-# PlantCare-Mobile-Developmentn
+# PlantCare-Mobile-Development
 
 ## What is PlantCare 🤔
 
@@ -12,6 +12,10 @@
 ![dashboard screen] ![profile screen]
 
 ### Dashboard and Profil Screen
+
+![login_screen] ![register screen]
+
+### Login & Register
 
 ![change address screen] ![success create order]
 
