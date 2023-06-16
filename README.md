@@ -22,7 +22,8 @@ PlantCare is an intuitive mobile application that utilizes visual recognition te
 ![diagnosis](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/ef11f383-5f5f-4d2b-a613-ad124015f2a2)
 
 ## User Flow 📱
-![flow_screen](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/003814a1-f981-4dfd-9976-d11ceee1e11c)
+![flow_screen2](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/b889958b-3737-495b-8140-e89e3818c449)
+### Here the Steps👇
 1. You must to have PlantCare account. So, you have to register here.  
 2. If you already have an account, you can login.  
 3. Welcome to dashboard's page. If you want to scan the plant's disease, select the plant's icon that you want to detect.  
