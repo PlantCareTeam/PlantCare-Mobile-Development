@@ -9,19 +9,36 @@ PlantCare is an intuitive mobile application that utilizes visual recognition te
 3. Don't forget to have proper internet connection so you don't have problem while making garbage order or taking garbage order.
 
 ## Preview 🖼️
-### Login & Register
+
 ![login](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/e98216b2-7ecf-419d-be10-5ed9dbb6f887) ![regis](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/00af930f-8842-4352-a591-fc8ae1667005)
+### Login & Register
+
+![dashboard](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/b296f59f-609e-4448-aa04-436fbfe670df)
+![profile screen]
 
 ### Dashboard and Profil Screen
-![dashboard](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/b296f59f-609e-4448-aa04-436fbfe670df)
-![profile](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/1987fb0e-8a44-442a-a01b-e4ee0145723b)
+
+![change address screen] ![success create order]
 
 ### Detail & Scan
-![detail](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/a60b2f11-edbe-4e9f-9aba-c04137e9b67f)
-![diagnosis](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/ef11f383-5f5f-4d2b-a613-ad124015f2a2)
+
+![order history screen] ![order detail screen]
+
 
 ## User Flow 📱
-![flow_screen](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/003814a1-f981-4dfd-9976-d11ceee1e11c)
+![flow_screen](https://github.com/PlantCareTeam/PlantCare-Mobile-Development/assets/128673874/003814a1-f981-4dfd-9976-d11ceee1e11c)  
+1. Register  
+   We must to have PlantCare account. So, if we register here.  
+2. Login  
+   If we already have an account, we must to login.  
+3. Dashboard  
+   We come to dashboard's page. If we want to scan the plant's disease, select the plant's icon that you want to detect.  
+4. Detail
+   Before we going to scan the plant's disease, we go to information of the plant's page. Then, click "Scan" if we want to scan.
+5. Scan
+   Here, we have two options, choose a picture from gallery or scan directly through camera.
+6. Result
+   We know the result of the scanning process here.
 
 ## Mobile Tech Stack 😎
 
